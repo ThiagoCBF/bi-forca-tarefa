@@ -2,9 +2,9 @@
 
 ## Visão Geral
 
-Esta solução foi desenvolvida para simular um fluxo completo de dados aplicado à gestão comercial de varejo, integrando coleta operacional, processamento, modelagem e visualização de dados.
+Esta solução foi desenvolvida para estruturar um fluxo completo de dados aplicado à gestão comercial no varejo, integrando coleta operacional, processamento, modelagem e visualização de dados.
 
-O objetivo da arquitetura é transformar dados brutos de vendas em informações estruturadas para análise de negócio e apoio à tomada de decisão.
+O objetivo da arquitetura é transformar dados operacionais de vendas em informações estruturadas e confiáveis para análise de negócio e suporte à tomada de decisão.
 
 ---
 
