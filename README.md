@@ -16,7 +16,7 @@ Identifiquei que a gestão via formulários simples gerava ruído e perda de inf
 
 ###  Stack Técnica Aplicada
 
-*   **Interface de Ingestão (UX):** Python (Streamlit) — 
+*   **Interface de Ingestão (UX):** Python (Streamlit) 
 *   **Armazenamento Transacional:** Local Data Store (CSV/SQLite).
 *   **Tratamento / ETL:** Python (Pandas).
 *   **Modelagem Analítica:** SQL.
@@ -35,7 +35,7 @@ Desenvolvimento de uma aplicação web dedicada para o ponto de venda (PDV), imp
 Transformação dos dados operacionais em uma base analítica escalável utilizando conceitos de **Star Schema**. A estruturação permite consultas rápidas e organizadas para ferramentas de BI.
 
 ![Modelagem de Dados](images/modelagem_tabelas.png)
-*Figura 1: Esquema relacional das tabelas fato e dimensão (Dados Fictícios).*
+
 
 ---
 
